@@ -2,29 +2,9 @@
   "meta": {
     "username": "g0053",
     "repositoryName": "g0053.github.io",
-    "branch": "master"
+    "branch": "gh-pages"
   },
   "theme": {
-    "name": "casper"
-  },
-  "urls": {
-    "site": "https://g0053.github.io",
-    "hubpress": "https://g0053.github.io",
-    "theme": "//g0053.github.io/themes/casper",
-    "images": "https://g0053.github.io/images"
-  },
-  "initialisationConfigComponent": {
-    "name": "initialise-configuration",
-    "computed": {},
-    "methods": {},
-    "staticRenderFns": [
-      null,
-      null,
-      null
-    ],
-    "_compiled": true,
-    "beforeCreate": [
-      null
-    ]
+    "name": "Casper"
   }
 }
